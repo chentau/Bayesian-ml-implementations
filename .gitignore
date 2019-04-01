@@ -1,0 +1,4 @@
+*.pyc
+__pycache__
+nsfabs_part1_out
+
